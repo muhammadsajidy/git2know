@@ -71,6 +71,9 @@ Thanks to these amazing people for their contributions!
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 📬 Contact
+## 📝 Note
 
-Email: [teamx.0403@gmail.com](mailto:teamx.0403@gmail.com)  
+Forked from [TeamXVit/git2know](https://github.com/TeamXVit/git2know)
+
+## 📝 My Contributions
+Developed the entire frontend for the project
